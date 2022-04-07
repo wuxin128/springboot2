@@ -9,5 +9,6 @@ public class User {
         System.out.println("你好，git222!");
         System.out.println("你好，git333!");
         System.out.println("你好，git444!");
+        System.out.println("你好，master test!");
     }
 }
