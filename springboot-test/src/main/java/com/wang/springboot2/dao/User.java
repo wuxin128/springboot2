@@ -6,5 +6,6 @@ package com.wang.springboot2.dao;/*
 public class User {
     public static void main(String[] args) {
         System.out.println("你好，git!");
+        System.out.println("你好，git222!");
     }
 }
