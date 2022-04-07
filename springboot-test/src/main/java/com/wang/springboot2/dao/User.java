@@ -12,5 +12,6 @@ public class User {
         System.out.println("你好，master test!");
         System.out.println("你好，hot fix !");
         System.out.println("你好，push fix !");
+        System.out.println("你好，pull test!");
     }
 }
